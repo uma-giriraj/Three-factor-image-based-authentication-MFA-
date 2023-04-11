@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "lite-server": "^2.6.1",
+    "paper": "^0.12.16",
+    "sjcl": "^1.0.8",
+    "sjcl-full": "^1.0.0"
+  },
+  "scripts": {
+    "start": "lite-server"
+  }
+}
