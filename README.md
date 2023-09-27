@@ -1,1 +1,6 @@
 "# Three_Factor_image_based_authentication" 
+This integrates image recognition, a two-factor authentication process, and personalized user
+passphrases. This innovative approach significantly enhances security measures, effectively
+safeguarding systems from unauthorized access attempts
+
+the SHA-256-based Three-level Image-based Authentication system offers a reliable and safe method of user authentication. This system employs three stages of security checks, including image-based authentication, SHA-256 algorithm-based encryption, and username and password authentication. Only authorized users may access the system thanks to the combination of these three levels of security checks, and their login information and other personal information is kept safe from prying eyes. Sensitive data is protected from harmful assaults thanks to the high level of security offered by SHA-256 algorithm-based encryption against brute-force attacks. All things considered, the Three-level Image-based Authentication system created using the SHA-256 algorithm is a trustworthy and efficient way to authenticate users in a variety of applications, such as online banking, e-commerce, and social media platforms.
